@@ -1,0 +1,141 @@
+Features,Score
+isMobile,0
+bounces,59
+newVisits,410
+isTrueDirect,271
+adwordsClickInfo.isVideoAd,6
+channelGrouping_p,63
+hour,1272
+hour_p,993
+day_p,1545
+month_p,1305
+weekday_p,652
+logVisitNumber,1345
+browser_p,5
+operatingSystem_p,61
+deviceCategory_p,8
+continent_p,9
+subContinent_p,10
+country_p,31
+region_p,173
+metro_p,251
+city_p,376
+networkDomain_p,569
+log1pHits,3319
+log1pPageviews,3532
+campaign_p,40
+source_p,68
+medium_p,91
+keyword_p,154
+referralPath_p,124
+adContent_p,4
+source_country_p,333
+campaign_medium_p,26
+browser_devcategory_p,33
+browser_os_p,88
+deviceCategory_channelGrouping_p,41
+channelGrouping_browser_p,54
+channelGrouping_OS_p,297
+city_browser_p,365
+city_deviceCategory_p,262
+city_operatingSystem_p,670
+city_source_p,627
+continent_browser_p,40
+continent_deviceCategory_p,9
+continent_operatingSystem_p,61
+continent_source_p,59
+country_browser_p,132
+country_deviceCategory_p,113
+country_operatingSystem_p,231
+country_source_p,62
+metro_browser_p,184
+metro_deviceCategory_p,154
+metro_operatingSystem_p,355
+metro_source_p,382
+networkDomain_browser_p,509
+networkDomain_deviceCategory_p,467
+networkDomain_operatingSystem_p,885
+networkDomain_source_p,1217
+region_browser_p,93
+region_deviceCategory_p,67
+region_operatingSystem_p,336
+region_source_p,255
+subContinent_browser_p,47
+subContinent_deviceCategory_p,16
+subContinent_operatingSystem_p,75
+subContinent_source_p,93
+channelGrouping_Affiliates,0
+channelGrouping_Direct,77
+channelGrouping_Display,10
+channelGrouping_Organic Search,3
+channelGrouping_Paid Search,3
+channelGrouping_Referral,0
+channelGrouping_Social,0
+browser_Android Webview,0
+browser_Chrome,0
+browser_Edge,0
+browser_Firefox,7
+browser_Internet Explorer,16
+browser_Opera,0
+browser_Other,0
+browser_Safari,1
+browser_Safari (in-app),0
+operatingSystem_Chrome OS,0
+operatingSystem_Linux,84
+operatingSystem_Macintosh,124
+operatingSystem_Other,0
+operatingSystem_Windows,19
+operatingSystem_Windows Phone,0
+operatingSystem_iOS,5
+deviceCategory_mobile,1
+deviceCategory_tablet,2
+continent_Africa,0
+continent_Americas,0
+continent_Asia,0
+continent_Europe,2
+continent_Oceania,0
+subContinent_Australasia,0
+subContinent_Caribbean,0
+subContinent_Central America,0
+subContinent_Central Asia,0
+subContinent_Eastern Africa,0
+subContinent_Eastern Asia,0
+subContinent_Eastern Europe,0
+subContinent_Melanesia,0
+subContinent_Micronesian Region,0
+subContinent_Middle Africa,0
+subContinent_Northern Africa,0
+subContinent_Northern America,0
+subContinent_Northern Europe,0
+subContinent_Polynesia,0
+subContinent_South America,7
+subContinent_Southeast Asia,1
+subContinent_Southern Africa,0
+subContinent_Southern Asia,0
+subContinent_Southern Europe,0
+subContinent_Western Africa,0
+subContinent_Western Asia,2
+subContinent_Western Europe,0
+medium_(not set),0
+medium_affiliate,0
+medium_cpc,0
+medium_cpm,0
+medium_organic,1
+medium_referral,4
+month_August,384
+month_December,19
+month_February,39
+month_January,39
+month_July,90
+month_June,115
+month_March,53
+month_May,184
+month_November,7
+month_October,62
+month_September,213
+weekday_Monday,81
+weekday_Saturday,16
+weekday_Sunday,49
+weekday_Thursday,71
+weekday_Tuesday,80
+weekday_Wednesday,113
